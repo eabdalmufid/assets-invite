@@ -1,1 +1,1 @@
-# Assets for (Undangan Digital)[https://invite.affidev.com]
+# Assets for [Undangan Digital](https://invite.affidev.com)
